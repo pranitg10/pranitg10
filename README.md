@@ -43,7 +43,7 @@ Here, you'll find a collection of my projects where I apply my expertise in Pyth
 - Tech Stack: Python, Scikit-learn, Pandas
 - Key Skills: Clustering, Customer Segmentation, Data Preprocessing
 
-### Deep Learning
+### Deep Learning (DL)
 
 1. ANN Based Customer Churn Predictor
 - Description: Implemented an Artificial Neural Network to predict customer churn based on attributes like customer tenure and balance.
@@ -83,10 +83,10 @@ Here, you'll find a collection of my projects where I apply my expertise in Pyth
 - Visualization: Tableau, Power BI, Matplotlib, Seaborn
 - Deployment: Gradio
 
-🌱 Currently Learning
-I am continuously expanding my knowledge in Deep Learning, Natural Language Processing (NLP), and Computer Vision.
+### 🌱 Currently Learning
+**I am continuously expanding my knowledge in Deep Learning, Natural Language Processing (NLP), and Computer Vision.**
 
-📫 Let's Connect
+## 📫 Let's Connect
 - GitHub: https://github.com/pranitg10
 - LinkedIn: https://www.linkedin.com/in/pranitgawade13/
 
