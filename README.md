@@ -76,7 +76,7 @@ Here, you'll find a collection of my projects where I apply my expertise in Pyth
 - Key Skills: EDA, Data Visualization, Feature Engineering
 
 
-### 🔧 Skills and Tools
+### Skills and Tools
 - Programming Languages: Python, SQL
 - Data Science Libraries: Pandas, NumPy, Scikit-learn, TensorFlow, Keras
 - Machine Learning: Classification, Regression, ANN, Clustering
