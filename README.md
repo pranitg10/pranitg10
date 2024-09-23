@@ -88,8 +88,8 @@ I am continuously expanding my knowledge in Deep Learning, Natural Language Proc
 
 📫 Let's Connect
 - GitHub: https://github.com/pranitg10
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/pranitgawade13/)
-- Email: pranitgawade7@gmail.com
+- LinkedIn: [Pranit Gawade](https://www.linkedin.com/in/pranitgawade13/)
+
 
 
 
