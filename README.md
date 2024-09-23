@@ -87,9 +87,9 @@ Here, you'll find a collection of my projects where I apply my expertise in Pyth
 I am continuously expanding my knowledge in Deep Learning, Natural Language Processing (NLP), and Computer Vision.
 
 📫 Let's Connect
-- GitHub: [Pranit Gawade](https://www.linkedin.com/in/pranitgawade13/)
-- LinkedIn: Your LinkedIn Profile
-- Email: Your Email Address
+- GitHub: https://github.com/pranitg10
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/pranitgawade13/)
+- Email: pranitgawade7@gmail.com
 
 
 
