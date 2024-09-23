@@ -1,7 +1,13 @@
-- Hi, I’m Pranit Gawade
-- Data Science & Analytics Professional | Machine Learning Enthusiast
-- Welcome to my GitHub profile! I am a certified Data Science and Analytics professional with a passion for building data-driven solutions. 
-- Here, you'll find a collection of my projects where I apply my expertise in Python, SQL, Machine Learning, Deep Learning and data visualization tools like Power BI and Tableau.
+Hi, I’m Pranit Gawade
+
+Data Science & Analytics Professional | Machine Learning Enthusiast
+
+Welcome to my GitHub profile! 
+
+I am a certified Data Science and Analytics professional with a passion for building data-driven solutions. 
+
+Here, you'll find a collection of my projects where I apply my expertise in Python, SQL, Machine Learning, Deep Learning, and data visualization tools like Power BI and Tableau.
+
 
 ## 💻 My Projects
 
@@ -70,6 +76,20 @@ Tech Stack: Python, Pandas, Matplotlib, Seaborn
 Key Skills: EDA, Data Visualization, Feature Engineering
 
 
+### 🔧 Skills and Tools
+Programming Languages: Python, SQL
+Data Science Libraries: Pandas, NumPy, Scikit-learn, TensorFlow, Keras
+Machine Learning: Classification, Regression, ANN, Clustering
+Visualization: Tableau, Power BI, Matplotlib, Seaborn
+Deployment: Gradio
+
+🌱 Currently Learning
+I am continuously expanding my knowledge in Deep Learning, Natural Language Processing (NLP), and Computer Vision.
+
+📫 Let's Connect
+GitHub: Pranit Gawade
+LinkedIn: Your LinkedIn Profile
+Email: Your Email Address
 
 
 
