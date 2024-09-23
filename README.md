@@ -88,7 +88,7 @@ I am continuously expanding my knowledge in Deep Learning, Natural Language Proc
 
 📫 Let's Connect
 - GitHub: https://github.com/pranitg10
-- LinkedIn: (https://www.linkedin.com/in/pranitgawade13/)
+- LinkedIn: https://www.linkedin.com/in/pranitgawade13/
 
 
 
