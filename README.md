@@ -77,7 +77,7 @@ Here, you'll find a collection of my projects where I apply my expertise in Pyth
 
 
 ### Skills and Tools
-- ***Programming Languages:** Python, SQL
+- **Programming Languages:** Python, SQL
 - **Data Science Libraries:** Pandas, NumPy, Scikit-learn, TensorFlow, Keras
 - **Machine Learning:** Classification, Regression, Clustering
 - **Deep Learning:** ANN, CNN, RNN, LSTM
