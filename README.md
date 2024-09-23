@@ -70,7 +70,7 @@ Here, you'll find a collection of my projects where I apply my expertise in Pyth
 
 ### Exploratory Data Analysis
 
-*****1. EDA Level 1 Analysis of Bank Customer Churn.******
+*****1. EDA Level 1 Analysis of Bank Customer Churn.*****
 - Description: Conducted exploratory data analysis (EDA) on a bank churn dataset to identify key factors influencing customer retention.
 - Tech Stack: Python, Pandas, Matplotlib, Seaborn
 - Key Skills: EDA, Data Visualization, Feature Engineering
