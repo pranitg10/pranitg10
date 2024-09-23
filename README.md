@@ -77,12 +77,12 @@ Here, you'll find a collection of my projects where I apply my expertise in Pyth
 
 
 ### Skills and Tools
-- Programming Languages: Python, SQL
-- Data Science Libraries: Pandas, NumPy, Scikit-learn, TensorFlow, Keras
-- Machine Learning: Classification, Regression, Clustering
-- Deep Learning: ANN, CNN, RNN, LSTM
-- Visualization: Tableau, Power BI, Matplotlib, Seaborn
-- Deployment: Gradio
+- ***Programming Languages:** Python, SQL
+- **Data Science Libraries:** Pandas, NumPy, Scikit-learn, TensorFlow, Keras
+- **Machine Learning:** Classification, Regression, Clustering
+- **Deep Learning:** ANN, CNN, RNN, LSTM
+- **Visualization:** Tableau, Power BI, Matplotlib, Seaborn
+- **Deployment:** Gradio
 
 ### 🌱 Currently Learning
 **I am continuously expanding my knowledge in Deep Learning, Natural Language Processing (NLP), and Computer Vision.**
@@ -90,6 +90,7 @@ Here, you'll find a collection of my projects where I apply my expertise in Pyth
 ## 📫 Let's Connect
 - GitHub: https://github.com/pranitg10
 - LinkedIn: https://www.linkedin.com/in/pranitgawade13/
+- BLog: https://medium.com/@pranitgawade13
 
 
 
