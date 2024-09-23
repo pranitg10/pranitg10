@@ -77,11 +77,11 @@ Here, you'll find a collection of my projects where I apply my expertise in Pyth
 
 
 ### 🔧 Skills and Tools
-Programming Languages: Python, SQL
-Data Science Libraries: Pandas, NumPy, Scikit-learn, TensorFlow, Keras
-Machine Learning: Classification, Regression, ANN, Clustering
-Visualization: Tableau, Power BI, Matplotlib, Seaborn
-Deployment: Gradio
+- Programming Languages: Python, SQL
+- Data Science Libraries: Pandas, NumPy, Scikit-learn, TensorFlow, Keras
+- Machine Learning: Classification, Regression, ANN, Clustering
+- Visualization: Tableau, Power BI, Matplotlib, Seaborn
+- Deployment: Gradio
 
 🌱 Currently Learning
 I am continuously expanding my knowledge in Deep Learning, Natural Language Processing (NLP), and Computer Vision.
