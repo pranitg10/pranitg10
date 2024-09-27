@@ -67,7 +67,9 @@ Here, you'll find a collection of my projects where I apply my expertise in Pyth
 - Tech Stack: Python, Scikit-learn, Pandas, Matplotlib
 - Key Skills: Data Analysis, Classification, Data Visualization
 
-### Numerology Insight Calculator
+### Python
+
+**Numerology Insight Calculator**
 - Description: Developed an interactive application that calculates Destiny and Base numbers based on users' birth dates, providing personalized insights into personality traits and life paths through numerological principles.
 - Tech Stack: Python, Gradio
 - Key Skills: Data Analysis, User Interface Design, Numerology, Interactive Applications
