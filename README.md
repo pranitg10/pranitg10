@@ -13,7 +13,7 @@ Here, you'll find a collection of my projects where I apply my expertise in Pyth
 
 ### Machine Learning (ML)
 
-****1. Machine Learning for Probability-Driven Match Outcome Prediction in IPL Cricket.****
+[****1. Machine Learning for Probability-Driven Match Outcome Prediction in IPL Cricket.****](https://github.com/pranitg10/Machine-Learning-for-Probability-Driven-Match-Outcome-Prediction-in-IPL-Cricket)
 - Description: Created a logistic regression model to predict the outcome of IPL cricket matches using features like runs, wickets, and overs left.
 - Tech Stack: Python, Scikit-learn, Gradio
 - Key Skills: Logistic Regression, Predictive Analytics, Model Deployment
