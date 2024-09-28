@@ -47,7 +47,14 @@ Here, you'll find a collection of my projects where I apply my expertise in Pyth
 - Description: Applied Hierarchical Clustering to segment mall customers based on purchasing behavior.
 - Tech Stack: Python, Scikit-learn, Pandas
 - Key Skills: Clustering, Customer Segmentation, Data Preprocessing
-- 
+
+### Time Series Analysis
+
+**[1. Tesla (TSLA) Stock Price Prediction Using Time Series Forecasting.](https://github.com/pranitg10/Tesla-Stock-Price-Prediction-Using-Time-Series-Forecasting)**
+- Description: Forecasted Tesla Inc. (TSLA) stock prices using advanced time series analysis techniques, including ARIMA, to provide insights into market trends.
+- Tech Stack: Python, Pandas, NumPy, Matplotlib, Seaborn, Statsmodels, Jupyter Notebook
+- Key Skills: Time Series Analysis, ARIMA Modeling, Data Preprocessing, Exploratory Data Analysis (EDA), Stationarity Testing
+
 ### Deep Learning (DL)
 
 ****[1. ANN Based Customer Churn Predictor.](https://github.com/pranitg10/ANN-Based-Customer-Churn-Predictor)****
