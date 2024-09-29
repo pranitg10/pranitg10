@@ -50,7 +50,12 @@ Here, you'll find a collection of my projects where I apply my expertise in Pyth
 
 ### Time Series Analysis
 
-**[1. Tesla (TSLA) Stock Price Prediction Using Time Series Forecasting.](https://github.com/pranitg10/Tesla-Stock-Price-Prediction-Using-Time-Series-Forecasting)**
+**[1. Apple Stock Price Forecasting Using Time Series Analysis](https://github.com/pranitg10/Apple-Stock-Price-Forecasting-Using-Time-Series-Analysis)**
+- Description: Forecasted Apple Inc. (AAPL) stock prices using advanced time series analysis techniques, including ARIMA, to identify market trends.
+- Tech Stack: Python, Pandas, NumPy, Matplotlib, Seaborn, Statsmodels, Jupyter Notebook
+- Key Skills: Time Series Analysis, ARIMA Modeling, Data Preprocessing, Exploratory Data Analysis (EDA), Stationarity Testing
+
+**[2. Tesla (TSLA) Stock Price Prediction Using Time Series Forecasting.](https://github.com/pranitg10/Tesla-Stock-Price-Prediction-Using-Time-Series-Forecasting)**
 - Description: Forecasted Tesla Inc. (TSLA) stock prices using advanced time series analysis techniques, including ARIMA, to provide insights into market trends.
 - Tech Stack: Python, Pandas, NumPy, Matplotlib, Seaborn, Statsmodels, Jupyter Notebook
 - Key Skills: Time Series Analysis, ARIMA Modeling, Data Preprocessing, Exploratory Data Analysis (EDA), Stationarity Testing
