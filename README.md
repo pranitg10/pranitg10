@@ -14,16 +14,17 @@ Here, you'll find a collection of my projects where I apply my expertise in Pyth
 ### Capstone 1
 
 ****[1. Airline Passenger Satisfaction Analysis.](https://github.com/pranitg10/Airline-Passenger-Satisfaction-Analysis)****
-- Description: Analyzed passenger satisfaction using classification models and conducted EDA to uncover trends and insights.
-- Tech Stack: Python, Scikit-learn, Pandas, Matplotlib
-- Key Skills: Data Analysis, Classification, Data Visualization
+
+- Description: Analyzed airline passenger satisfaction reviews to identify key factors influencing satisfaction and provide actionable insights for service improvement.
+- Tech Stack: Python, Tableau
+- Key Skills: Data Analysis, Data Visualization, Insights Generation.
 
 ### Capstone 2
 
 ****[1. Machine Learning for Probability-Driven Match Outcome Prediction in IPL Cricket.](https://github.com/pranitg10/Machine-Learning-for-Probability-Driven-Match-Outcome-Prediction-in-IPL-Cricket)****
-- Description: Created a logistic regression model to predict the outcome of IPL cricket matches using features like runs, wickets, and overs left.
+- Description: Created a logistic regression model to predict the outcome of IPL cricket matches using features like runs, wickets, and balls left.
 - Tech Stack: Python, Scikit-learn, Gradio
-- Key Skills: Logistic Regression, Predictive Analytics
+- Key Skills: Logistic Regression, Predictive Analytics.
 
 ### Python
 
