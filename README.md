@@ -34,8 +34,8 @@ Here, you'll find a collection of my projects where I apply my expertise in Pyth
 - Key Skills: Data Analysis, Data Visualization, Insights Generation.
 
 ### Excel 
-**[1. Sales Report Analysis Dashboard.]([https://github.com/pranitg10/Numerology-Insight-Calculator](https://github.com/pranitg10/Sales-Report-Analysis-))**
-- Description:- Description:This repository contains a Power BI dashboard for analyzing sales data from a Vista Mart Sales Store. The dashboard provides a comprehensive view of key sales metrics, regional performance, and sales trends over time, allowing users to gain actionable insights into the store's sales performance.
+**[1. Sales Report Analysis Dashboard.](https://github.com/pranitg10/Sales-Report-Analysis-)**
+- Description: Description:This repository contains a Power BI dashboard for analyzing sales data from a Vista Mart Sales Store. The dashboard provides a comprehensive view of key sales metrics, regional performance, and sales trends over time, allowing users to gain actionable insights into the store's sales performance.
 - Tech Stack: Excel
 - Key Skills: Data Analysis, Data Visualization, Insights Generation.
 
