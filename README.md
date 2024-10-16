@@ -11,7 +11,7 @@ Here, you'll find a collection of my projects where I apply my expertise in Pyth
 
 ## My Projects
 
-### Capstone 1  ( Power BI , Tableau )
+### Capstone 1:  ( Power BI , Tableau )
 ****[1. Airline Passenger Satisfaction Analysis (Using Power BI)](https://github.com/pranitg10/Airline-Passenger-Satisfaction-Analysis-Using-Power-BI/tree/main)****
 
 - Description: Analyzed Airline passenger satisfaction data to identify key factors influencing satisfaction and provide actionable insights for improving services.
@@ -24,7 +24,7 @@ Here, you'll find a collection of my projects where I apply my expertise in Pyth
 - Tech Stack: Python, Tableau
 - Key Skills: Data Analysis, Data Visualization, Insights Generation.
 
-### Capstone 2  ( Machine Learning )
+### Capstone 2:  ( Machine Learning )
 
 ****[1. Machine Learning for Probability-Driven Match Outcome Prediction in IPL Cricket.](https://github.com/pranitg10/Machine-Learning-for-Probability-Driven-Match-Outcome-Prediction-in-IPL-Cricket)****
 - Description: Created a logistic regression model to predict the outcome of IPL cricket matches using features like runs, wickets, and balls left.
