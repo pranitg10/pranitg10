@@ -12,8 +12,13 @@ Here, you'll find a collection of my projects where I apply my expertise in Pyth
 ## My Projects
 
 ### Capstone 1
+****[1. Airline Passenger Satisfaction Analysis (Using Power BI)](https://github.com/pranitg10/Airline-Passenger-Satisfaction-Analysis-Using-Power-BI/tree/main)****
 
-****[1. Airline Passenger Satisfaction Analysis.](https://github.com/pranitg10/Airline-Passenger-Satisfaction-Analysis)****
+- Description: Analyzed Airline passenger satisfaction data to identify key factors influencing satisfaction and provide actionable insights for improving services.
+- Tech Stack: Python, Power BI
+- Key Skills: Data Analysis, Data Visualization, Insights Generation
+
+****[1. Airline Passenger Satisfaction Analysis. (Using Tableau)](https://github.com/pranitg10/Airline-Passenger-Satisfaction-Analysis)****
 
 - Description: Analyzed airline passenger satisfaction reviews to identify key factors influencing satisfaction and provide actionable insights for service improvement.
 - Tech Stack: Python, Tableau
