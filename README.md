@@ -11,6 +11,13 @@ Here, you'll find a collection of my projects where I apply my expertise in Pyth
 
 ## My Projects
 
+### SQL Project: IMDB Top 1000 Movie Database Analysis
+
+****[1. IMDB Top 1000 Movie Database Analysis (SQL)](https://github.com/pranitg10/IMDB-Top-1000-Movie-Database-Analysis-SQL-)****
+- Description: Analyzed the IMDB Top 1000 Movies dataset to identify key factors influencing movie success, including ratings, revenue, genres, directors, and actors. Provided actionable insights to help filmmakers and investors make data-driven decisions.
+- Tech Stack: SQL, MySQL
+- Key Skills: Data Analysis, SQL Queries, Data Cleaning, Data Transformation, Insights Generation
+- 
 ### Capstone 1:  ( Power BI , Tableau )
 ****[1. Airline Passenger Satisfaction Analysis (Using Power BI)](https://github.com/pranitg10/Airline-Passenger-Satisfaction-Analysis-Using-Power-BI/tree/main)****
 
@@ -18,7 +25,7 @@ Here, you'll find a collection of my projects where I apply my expertise in Pyth
 - Tech Stack: Python, Power BI
 - Key Skills: Data Analysis, Data Visualization, Insights Generation
 
-****[1. Airline Passenger Satisfaction Analysis. (Using Tableau)](https://github.com/pranitg10/Airline-Passenger-Satisfaction-Analysis)****
+****[2. Airline Passenger Satisfaction Analysis. (Using Tableau)](https://github.com/pranitg10/Airline-Passenger-Satisfaction-Analysis)****
 
 - Description: Analyzed airline passenger satisfaction reviews to identify key factors influencing satisfaction and provide actionable insights for service improvement.
 - Tech Stack: Python, Tableau
