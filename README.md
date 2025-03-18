@@ -11,7 +11,7 @@ Here, you'll find a collection of my projects where I apply my expertise in Pyth
 
 ## My Projects
 
-### SQL Project: IMDB Top 1000 Movie Database Analysis
+### SQL Project
 
 ****[1. IMDB Top 1000 Movie Database Analysis | SQL](https://github.com/pranitg10/IMDB-Top-1000-Movie-Database-Analysis-SQL-)****
 - Description: Analyzed the IMDB Top 1000 Movies dataset to identify key factors influencing movie success, including ratings, revenue, genres, directors, and actors. Provided actionable insights to help filmmakers and investors make data-driven decisions.
