@@ -11,15 +11,12 @@ Here, you'll find a collection of my projects where I apply my expertise in Pyth
 
 ## My Projects
 
-### SQL Project
-
 ****[1. IMDB Top 1000 Movie Database Analysis | SQL](https://github.com/pranitg10/IMDB-Top-1000-Movie-Database-Analysis-SQL-)****
 - Description: Analyzed the IMDB Top 1000 Movies dataset to identify key factors influencing movie success, including ratings, revenue, genres, directors, and actors. Provided actionable insights to help filmmakers and investors make data-driven decisions.
 - Tech Stack: SQL, MySQL
 - Key Skills: Data Analysis, SQL Queries, Data Cleaning, Data Transformation, Insights Generation
 
-### Capstone 1:  ( Power BI , Tableau )
-****[1. Airline Passenger Satisfaction Analysis | Power BI](https://github.com/pranitg10/Airline-Passenger-Satisfaction-Analysis-Using-Power-BI/tree/main)****
+****[2. Airline Passenger Satisfaction Analysis | Power BI](https://github.com/pranitg10/Airline-Passenger-Satisfaction-Analysis-Using-Power-BI/tree/main)****
 
 - Description: Analyzed Airline passenger satisfaction data to identify key factors influencing satisfaction and provide actionable insights for improving services.
 - Tech Stack: Python, Power BI
@@ -31,27 +28,21 @@ Here, you'll find a collection of my projects where I apply my expertise in Pyth
 - Tech Stack: Python, Tableau
 - Key Skills: Data Analysis, Data Visualization, Insights Generation.
 
-### Capstone 2:  ( Machine Learning )
-
 ****[1. Machine Learning for Probability-Driven Match Outcome Prediction in IPL Cricket. | Machine Learning ](https://github.com/pranitg10/Machine-Learning-for-Probability-Driven-Match-Outcome-Prediction-in-IPL-Cricket)****
 - Description: Created a logistic regression model to predict the outcome of IPL cricket matches using features like runs, wickets, and balls left.
 - Tech Stack: Python, Scikit-learn, Gradio
 - Key Skills: Logistic Regression, Predictive Analytics.
-
-### Power BI
 
 **[1. Vista Mart Sales Dashboard | Power BI](https://github.com/pranitg10/Vista-Mart-Sales-Dashboard)**
 - Description: This project contains a Power BI dashboard for analyzing sales data from a Vista Mart Sales Store. The dashboard provides a comprehensive view of key sales metrics, regional performance, and sales trends over time, allowing users to gain actionable insights into the store's sales performance.
 - Tech Stack: Powe BI
 - Key Skills: Data Analysis, Data Visualization, Insights Generation.
 
-### Excel 
 **[1. Sales Report Analysis Dashboard. | Excel](https://github.com/pranitg10/Sales-Report-Analysis-)**
 - Description: Description: This project builds a Sales Report Analysis Dashboard to visualize sales data across multiple channels. It highlights key insights on sales trends, customer demographics, and order distribution, enabling data-driven business decision
 - Tech Stack: Excel
 - Key Skills: Data Analysis, Data Visualization, Insights Generation.
 
-### Python
 
 **[1. Numerology Insight Calculator | Python](https://github.com/pranitg10/Numerology-Insight-Calculator)**
 - Description: Developed an interactive application that calculates Destiny and Base numbers based on users' birth dates, providing personalized insights into personality traits and life paths through numerological principles.
