@@ -11,7 +11,7 @@ Here, you'll find a collection of my projects where I apply my expertise in Pyth
 
 ## My Projects
 
-****[1. Co2-Emissions-Through-Time-A-Regional-and-Economic-Perspective | EDA](https://github.com/pranitg10/Co2-Emissions-Through-Time-A-Regional-and-Economic-Perspective)****
+****[1. Co2 Emissions Through Time A Regional and Economic Perspective | EDA](https://github.com/pranitg10/Co2-Emissions-Through-Time-A-Regional-and-Economic-Perspective)****
 - Description: EDA of global CO₂ emissions per capita (1990–2019) for 267 countries. Analyzes trends, regional and income group disparities, and highlights how a few nations emit far above the global median, revealing deep inequalities in per-person carbon footprints.
 - Tech Stack: Python, Exploratory Data Analysis, Numpy, Pandas, Matplotlib, Seaborn
 - Key Skills: Exploratory Data Analysis, Data Analysis, Data Cleaning, Data Transformation, Insights Generation
